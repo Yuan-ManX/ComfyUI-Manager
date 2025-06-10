@@ -19701,6 +19701,16 @@
             "description": "ComfyUI-ChatterboxTTS is now available in ComfyUI, Chatterbox TTS is the first production-grade open-source TTS model."
         },
         {
+            "author": "Yuan-ManX",
+            "title": "ComfyUI-Direct3D-S2",
+            "reference": "https://github.com/Yuan-ManX/ComfyUI-Direct3D-S2",
+            "files": [
+                "https://github.com/Yuan-ManX/ComfyUI-Direct3D-S2"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyUI-Direct3D‑S2 is now available in ComfyUI, Direct3D‑S2 - Gigascale 3D Generation Made Easy with Spatial Sparse Attention. Direct3D‑S2 is a scalable 3D generation framework based on sparse volumes that achieves superior output quality with dramatically reduced training costs."
+        },
+        {
             "author": "Starnodes2024",
             "title": "ComfyUI_StarNodes",
             "reference": "https://github.com/Starnodes2024/ComfyUI_StarNodes",
