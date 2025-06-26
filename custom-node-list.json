@@ -19830,6 +19830,16 @@
             "description": "ComfyUI-OmniGen2 is now available in ComfyUI, OmniGen2 is a powerful and efficient unified multimodal model. Its architecture is composed of two key components: a 3B Vision-Language Model (VLM) and a 4B diffusion model."
         },
         {
+            "author": "Yuan-ManX",
+            "title": "ComfyUI-PosterCraft",
+            "reference": "https://github.com/Yuan-ManX/ComfyUI-PosterCraft",
+            "files": [
+                "https://github.com/Yuan-ManX/ComfyUI-PosterCraft"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyUI-PosterCraft is now available in ComfyUI, PosterCraft is a unified framework for high-quality aesthetic poster generation that excels in precise text rendering, seamless integration of abstract art, striking layouts, and stylistic harmony."
+        },
+        {
             "author": "Starnodes2024",
             "title": "ComfyUI_StarNodes",
             "reference": "https://github.com/Starnodes2024/ComfyUI_StarNodes",
