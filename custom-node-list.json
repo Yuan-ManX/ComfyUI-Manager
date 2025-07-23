@@ -19996,6 +19996,16 @@
             "description": "ComfyUI-ThinkSound is now available in ComfyUI, ThinkSound is a unified Any2Audio generation framework with flow matching guided by Chain-of-Thought (CoT) reasoning."
         },
         {
+            "author": "Yuan-ManX",
+            "title": "ComfyUI-HiggsAudio",
+            "reference": "https://github.com/Yuan-ManX/ComfyUI-HiggsAudio",
+            "files": [
+                "https://github.com/Yuan-ManX/ComfyUI-HiggsAudio"
+            ],
+            "install_type": "git-clone",
+            "description": "ComfyUI-HiggsAudio is now available in ComfyUI, Higgs Audio v2 is a text-audio foundation model from Boson AI."
+        },
+        {
             "author": "Starnodes2024",
             "title": "ComfyUI_StarNodes",
             "reference": "https://github.com/Starnodes2024/ComfyUI_StarNodes",
